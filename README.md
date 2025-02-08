@@ -58,7 +58,7 @@ For any common questions or concerns, please refer to our [FAQs](FAQs.md) sectio
 
 ## Contact
 
-If you have any questions or need any assistance, feel free to reach out to us at [hackindia@example.com](mailto:hackindia@example.com).
+If you have any questions or need any assistance, feel free to reach out to us at [simon@hackindia.xyz](mailto:simon@hackindia.xyz).
 
 We hope you have an amazing time at HackIndia and look forward to seeing your innovative solutions!
 
