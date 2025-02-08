@@ -5,6 +5,7 @@ export default defineConfig({
   title: "HackIndia Handbook",
   description: "A VitePress Site",  
   appearance: 'dark',
+  base: '/handbook/',
   themeConfig: {
     logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
