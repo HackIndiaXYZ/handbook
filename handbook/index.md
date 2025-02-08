@@ -7,7 +7,7 @@ hero:
   text: "for participants"
   tagline: India's Biggest Web3 and AI Hackathon
   image:
-    src: handbook/logo.png
+    src: /handbook/logo.png
     alt: VitePress
   actions:
     - theme: brand

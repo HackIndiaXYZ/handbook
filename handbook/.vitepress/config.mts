@@ -7,7 +7,7 @@ export default defineConfig({
   appearance: 'dark',
   base: '/handbook/',
   themeConfig: {
-    logo: 'handbook/logo.png',
+    logo: '/handbook/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -55,6 +55,15 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/HackIndiaXYZ' }
-    ]
+    ],
+    search: {
+      provider: 'local',
+      // provider: 'algolia',
+      // options: {
+      //   appId: 'X51HWTCQJJ',
+      //   apiKey: 'ca20f15eb8a667898b65d13f4213ae3d',
+      //   indexName: 'vitepress-demo'
+      // }
+    },
   }
 })
