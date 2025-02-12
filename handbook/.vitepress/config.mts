@@ -27,10 +27,10 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/problem-statement/index' },    
           { text: 'AI ', 
-            base: '/problem-statement/ai/',
+            base: '/problem-statement/AI/',
             items: [
-              { text: 'Problem Statement 1', link: 'problem-statement-1' },              
-              { text: 'Problem Statement 2', link: 'problem-statement-2' },              
+              { text: 'Problem Statement 1', link: 'problemstatement1' },              
+              { text: 'Problem Statement 2', link: 'problemstatement2' },              
             ]
            },     
         ]
