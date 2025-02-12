@@ -7,7 +7,7 @@ export default defineConfig({
   appearance: 'dark',
   base: '/handbook/',
   themeConfig: {
-    logo: '/handbook/logo.png',
+    logo: 'logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -16,13 +16,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Guide',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },              
-        ]
-      },
-      {
         text: 'Tracks',
         items: [
           { text: 'Overview', link: '/tracks/index' },         
@@ -30,14 +23,47 @@ export default defineConfig({
       },
       {
         text: 'Problem Statements',
+        collapsed: false,
         items: [
-          { text: 'Overview', link: '/problem-statement/index' },         
+          { text: 'Overview', link: '/problem-statement/index' },    
+          { text: 'AI ', 
+            base: '/problem-statement/ai/',
+            items: [
+              { text: 'Problem Statement 1', link: 'problem-statement-1' },              
+              { text: 'Problem Statement 2', link: 'problem-statement-2' },              
+            ]
+           },     
+        ]
+      },
+      {
+        text: 'Resources',
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/resources/index' },   
+          { text: 'AI ', 
+            base: '/resources/ai/',
+            items: [
+              { text: 'Glossary', link: 'glossary' },              
+              { text: 'Videos', link: 'videos' },              
+              { text: 'Courses', link: 'courses' },              
+              
+            ]
+          },   
+          { text: 'Web3 ', 
+            base: '/resources/web3/',
+            items: [
+              { text: 'Glossary', link: 'glossary' },              
+              { text: 'Videos', link: 'videos' },             
+              { text: 'Courses', link: 'courses' },             
+              
+            ]
+           },                  
         ]
       },
       {
         text: 'Project Submission',
         items: [
-          { text: 'Overview', link: '/project-submission/index' },         
+          { text: 'Overview', link: '/project-submission/index' },                    
         ]
       },
       {
@@ -46,7 +72,7 @@ export default defineConfig({
           { text: 'Overview', link: '/judging-criteria/index' },         
         ]
       }
-    ],
+  ],
 
     footer: {
       message: 'Released under the MIT License.',
@@ -54,7 +80,9 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/HackIndiaXYZ' }
+      { icon: 'github', link: 'https://github.com/HackIndiaXYZ' },
+      { icon: 'x', link: 'https://x.com/HackIndiaXYZ' },
+      { icon: 'facebook', link: 'https://facebook.com/HackIndiaXYZ' },
     ],
     search: {
       provider: 'local',

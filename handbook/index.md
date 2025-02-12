@@ -7,7 +7,7 @@ hero:
   text: "for participants"
   tagline: India's Biggest Web3 and AI Hackathon
   image:
-    src: /handbook/logo.png
+    src: logo.png
     alt: VitePress
   actions:
     - theme: brand
@@ -18,14 +18,24 @@ hero:
       link: /api-examples
 
 features:
-  - icon: ✨
+  - icon: 🚗
     title: Tarcks
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📑
+    title: Resources
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon: ❓
     title: Problem Statement
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 🏳️
+  - icon: 🛑
     title: Project Submission
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 👩‍🏫
+    title: Judging Criteria
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🔗
+    title: Important Links
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 ---
 
