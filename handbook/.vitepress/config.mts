@@ -31,6 +31,8 @@ export default defineConfig({
             items: [
               { text: 'Problem Statement 1', link: 'problemstatement1' },              
               { text: 'Problem Statement 2', link: 'problemstatement2' },              
+              { text: 'Problem Statement 3', link: 'problemstatement3' },              
+              { text: 'Problem Statement 4', link: 'problemstatement4' },              
             ]
            },     
         ]
