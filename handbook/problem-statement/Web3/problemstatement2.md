@@ -31,5 +31,5 @@ This marketplace will empower creators with full control over their NFTs, ensuri
 Can you build the future of NFT marketplaces? Innovate, develop, and give creators the power they deserve! 🎨🔗🔥
 
 ::: info
-This problem statement is shared by [Sharp Platform](invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
+This problem statement is shared by [Sharp Platform](https://invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
 :::

@@ -32,5 +32,5 @@ This solution will eliminate credential fraud, streamline verification processes
 Are you ready to transform how certificates are issued and verified? Innovate, develop, and build the next-gen blockchain-based credentialing system! 🔗🎓
 
 ::: info
-This problem statement is shared by [Sharp Platform](invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
+This problem statement is shared by [Sharp Platform](https://invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
 :::
