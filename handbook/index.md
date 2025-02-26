@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 🚗
-    title: Tarcks
+    title: Tracks
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon: 📑
     title: Resources

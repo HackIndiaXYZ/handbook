@@ -6,23 +6,24 @@ export default defineConfig({
   description: "A VitePress Site",  
   appearance: 'dark',
   base: '/handbook/',
+  cleanUrls: true,
   themeConfig: {
     logo: 'logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },     
+      { text: 'Examples', link: '/tracks/index' },     
     ],
 
     sidebar: [
       {
-        text: 'Tracks',
+        text: 'Tracks 🚗',
         items: [
           { text: 'Overview', link: '/tracks/index' },         
         ]
       },
       {
-        text: 'Problem Statements',
+        text: 'Problem Statements ❓',
         collapsed: false,
         items: [
           { text: 'Overview', link: '/problem-statement/index' },    
@@ -33,12 +34,21 @@ export default defineConfig({
               { text: 'Problem Statement 2', link: 'problemstatement2' },              
               { text: 'Problem Statement 3', link: 'problemstatement3' },              
               { text: 'Problem Statement 4', link: 'problemstatement4' },              
+              { text: 'Problem Statement 5', link: 'problemstatement5' },              
+            ]
+           },   
+           { text: 'Web3 ', 
+            base: '/problem-statement/Web3/',
+            items: [
+              { text: 'Problem Statement 1', link: 'problemstatement1' },             
+              { text: 'Problem Statement 2', link: 'problemstatement2' },             
+                           
             ]
            },     
         ]
       },
       {
-        text: 'Resources',
+        text: 'Resources 📑',
         collapsed: false,
         items: [
           { text: 'Overview', link: '/resources/index' },   
@@ -63,13 +73,13 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Project Submission',
+        text: 'Project Submission 🛑',
         items: [
           { text: 'Overview', link: '/project-submission/index' },                    
         ]
       },
       {
-        text: 'Judging Criteria',
+        text: 'Judging Criteria 👩‍🏫',
         items: [
           { text: 'Overview', link: '/judging-criteria/index' },         
         ]

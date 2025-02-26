@@ -4,7 +4,7 @@ outline: deep
 
 # Problem Statement 1
 
-## Project: MindCMS.ai 
+## Project: MindCMS
 
 ### 1. Overview
 MindCMS.ai is an AI-powered content management system designed to streamline content creation, SEO optimization, publication, and social media management. Users can input a topic, and the system will generate a comprehensive article, SEO metadata, videos, and social media posts while automating the publication process across websites and platforms.
