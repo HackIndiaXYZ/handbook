@@ -7,6 +7,20 @@ export default defineConfig({
   appearance: 'dark',
   base: '/handbook/',
   cleanUrls: true,
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-29NMW93BKC' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'TAG_ID');`
+    ]
+  ],
   themeConfig: {
     logo: 'https://github.com/HackIndiaXYZ/Logo-and-Assets/blob/main/HackIndia%20Logo/Only%20Logo%20-%20HackIndia%20512x512.png?raw=true',
     // https://vitepress.dev/reference/default-theme-config
@@ -117,5 +131,8 @@ export default defineConfig({
       //   indexName: 'vitepress-demo'
       // }
     },
-  }
+
+  },
+  
+  
 })
