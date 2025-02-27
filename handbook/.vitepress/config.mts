@@ -8,14 +8,19 @@ export default defineConfig({
   base: '/handbook/',
   cleanUrls: true,
   themeConfig: {
-    logo: 'logo.png',
+    logo: 'https://github.com/HackIndiaXYZ/Logo-and-Assets/blob/main/HackIndia%20Logo/Only%20Logo%20-%20HackIndia%20512x512.png?raw=true',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/tracks/index' },     
+      { text: 'Home', link: '/' },           
     ],
 
-    sidebar: [
+    sidebar: [   
+      {
+        text: 'Home 🏠',
+        items: [
+          { text: 'Start Here', link: '/starthere' },         
+        ]
+      },
       {
         text: 'Tracks 🚗',
         items: [
@@ -35,6 +40,7 @@ export default defineConfig({
               { text: 'Problem Statement 3', link: 'problemstatement3' },              
               { text: 'Problem Statement 4', link: 'problemstatement4' },              
               { text: 'Problem Statement 5', link: 'problemstatement5' },              
+              { text: 'Problem Statement 6', link: 'problemstatement6' },              
             ]
            },   
            { text: 'Web3 ', 
@@ -82,6 +88,12 @@ export default defineConfig({
         text: 'Judging Criteria 👩‍🏫',
         items: [
           { text: 'Overview', link: '/judging-criteria/index' },         
+        ]
+      },
+      {
+        text: 'Important Links 🔗',
+        items: [
+          { text: 'Overview', link: '/important-links/index' },         
         ]
       }
   ],
