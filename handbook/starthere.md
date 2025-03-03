@@ -25,4 +25,8 @@ Referal Link: [invite.sharpplatform.com/HACKINDIA](https://invite.sharpplatform.
 
 **Step 6:** Sign up on [DevDapp Challenge](https://devdapp.com/referral/HackIndia) and complete as many challenges as you can to increase your chances to win. 
 
+::: info
+This Challenge is shared by [RAIRprotocol](https://rairprotocol.org/)  - one of the technology partner for HackIndia 2025.
+:::
+
 Let’s build something incredible—Happy Hacking! 💡🔥

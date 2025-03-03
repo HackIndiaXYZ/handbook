@@ -4,33 +4,49 @@ outline: deep
 
 # Problem Statement 3
 
-## Project: Smart Presentation Generator
+## Project: MindCMS
 
-### Overview
+### 1. Overview
+MindCMS.ai is an AI-powered content management system designed to streamline content creation, SEO optimization, publication, and social media management. Users can input a topic, and the system will generate a comprehensive article, SEO metadata, videos, and social media posts while automating the publication process across websites and platforms.
 
-Creating visually appealing and well-structured presentations is a time-consuming task. Many individuals and teams struggle with designing slides, selecting appropriate layouts, and adding relevant visual elements. This results in ineffective presentations that fail to engage the audience.
+### 2. Functional Requirements
 
-### Challenge
+#### 2.1 Core Features
 
-Build an AI-powered Smart Presentation Generator that can:
-- Generate high-quality slide decks from a brief text input or document.
-- Auto-suggest themes, layouts, and content structures.
-- Enhance slides with relevant images, icons, and transitions based on the context.
-- Ensure coherence, readability, and design consistency across all slides.
+1. Content Generation
+    - Input: Topic and optional category.
+    - Output:
+        - Detailed article (1000+ words) with headers, sub-headers, and formatted text.
+        - AI-suggested article title, keywords, and meta description for SEO.
+        - AI models: GPT-based for natural language generation and semantic analysis.
+2. SEO Optimization
+    - Generate meta tags: Title, description, and keywords.
+    - Provide readability scores and keyword density suggestions.
+    - Auto-optimize images with ALT tags and compress them for performance.
 
-### Key Features
-- Text to Slides: Convert a paragraph or bullet points into structured slides.
-- AI-based Design Suggestions: Recommend fonts, colors, and layouts based on the topic.
-- Content Enhancement: Automatically insert relevant visuals, charts, and icons.
-- Customization Options: Allow users to tweak slides as per their needs.
-- Export & Share: Support multiple formats like PPTX, PDF, and online sharing.
+#### 2.2 Technical Requirements
+-	Frontend
+    - Technologies: React.js or Vue.js for a responsive UI.
+    - Features:
+    - Interactive dashboards for managing content.
+    - Drag-and-drop editors for customization.
+- Backend
+    - Technologies: Node.js or C#
+    - AI Integration: OpenAI GPT API or in-house LLM for content generation.
+    - Video Processing: FFMPEG or equivalent.
+- Database
+    - Use PostgreSQL or MongoDB for structured and unstructured data.
+    - Cache frequently used data with Redis.
+- Infrastructure
+    - Deploy on AWS or Azure with CI/CD pipelines.
+    - Use containerization (Docker, Kubernetes) for scalability.
+#### 2.3 Success Metrics
+- Time to generate and publish content reduced by 50%.
+- 90% user satisfaction with content quality.
+- 30% improvement in SEO rankings for published articles.
+- Social media engagement rates increase by 20%.
 
-### Impact
-This tool can help students, educators, professionals, and startups save time while creating high-quality presentations. It will increase productivity, ensure better communication, and enhance the overall presentation experience.
 
-### Build the Future of Smart Presentations! 🚀
-Think you have what it takes to revolutionize slide creation? Innovate, design, and build the ultimate AI-powered Smart Presentation Generator! 🎯
 
-::: info
-This problem statement is shared by [MCN Solutions](https://www.mcnsolutions.net/)  - one of the technology partner for HackIndia 2025.
-:::
+
+

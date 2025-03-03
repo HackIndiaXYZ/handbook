@@ -4,34 +4,51 @@ outline: deep
 
 # Problem Statement 4
 
-## Project: AI-Based Document Search & Retrieval Assistant
+## Project: Mindlancer.com
 
-###  Overview
-Employees often spend valuable time searching for the right documents, navigating through complex file structures, and skimming lengthy reports. Traditional search methods rely on exact keywords, making it difficult to find relevant information quickly. This inefficiency leads to frustration, productivity loss, and delayed decision-making.
+### 1. Overview
+Mindlancers is a platform and marketplace for freelancers to showcase their experiences, expertise, and skills and businesses and project owners can hire them. The team should research other popular platforms and create UI screen workflows and attach with these requirements.
 
-### Challenge
-Build an AI-powered Document Search & Retrieval Assistant that can:
-- Understand natural language queries and retrieve the most relevant documents.
-- Instantly summarize lengthy documents to provide key insights.
-- Suggest related documents or topics for further research and exploration.
-- Support multiple file types (PDFs, Word docs, presentations, etc.).
-- Enhance search accuracy using AI-driven context analysis.
+### 2. User Roles
+- Freelancers: Software developers looking for projects.
+- Businesses/Project Owners: Individuals or companies seeking freelancers for software development projects.
+- Admin: Platform administrators managing users, projects, disputes, and platform policies.
 
-### Key Features
-- Smart Search: Find documents based on natural language input, not just keywords.
-- AI-Powered Summaries: Generate concise summaries of lengthy documents.
-- Context-Aware Recommendations: Suggest related files or topics based on the query.
-- Multi-Format Support: Process PDFs, Word files, slides, and other common formats.
-- Fast & Secure Access: Ensure efficient retrieval while maintaining data security.
+### 3. Functional Requirements
+#### 3.1 User Management
+- Freelancer Signup & Profile
+    - Register via email, LinkedIn, or GitHub.
+    - Profile setup: skills, experience, portfolio, hourly rate, certifications, location, and availability.
+    - Profile verification and approval process.
+- Business Signup & Profile
+    - Register via email or business LinkedIn.
+    - Company profile: name, industry, description, website, and hiring needs.
+    - Verification for business accounts.
+- Admin Panel
+    - Manage users (freelancers and businesses).
+    - Approve, suspend, or deactivate accounts.
 
-### Impact
-This solution will boost workplace efficiency by reducing the time spent searching for information. It will streamline knowledge access, improve decision-making, and empower employees with instant insights from large document repositories.
+#### 3.2 Job Posting & Search
+- Job Posting by Businesses
+    - Create job posts with title, description, required skills, budget, deadline, and engagement model (hourly/fixed price).
+    - Ability to mark a job as urgent.
+- Freelancer Job Search
+    - Search by skill, budget, project type, location, and experience level.
+    - Save job listings for later.
+    - Apply for jobs directly.
 
-### Revolutionize Document Search with AI! 🚀
-Think you can build the ultimate AI-powered document search assistant? Innovate, develop, and transform the way we access information! 🔍⚡
+#### 3.3 Freelancer Bidding & Hiring
+- Proposal Submission
+    - Freelancers submit proposals with cover letter, bid amount, and estimated timeline.
+- Business Shortlisting & Hiring
+    - Review proposals, freelancer profiles, and past reviews.
+    - Schedule interviews via integrated chat/video call.
+    - Send job offer to selected freelancer.
+### 4. Technology Stack
+- Frontend: React.js / Next.js
+- Backend: Node.js / Python (Django/FastAPI)
+- Database: PostgreSQL / MongoDB
+- Authentication: OAuth, JWT
+- Payments: Stripe, PayPal
 
 
-
-::: info
-This problem statement is shared by [MCN Solutions](https://www.mcnsolutions.net/)  - one of the technology partner for HackIndia 2025.
-:::
