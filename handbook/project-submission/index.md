@@ -12,7 +12,7 @@ Have your project uploaded on GitHub with the Repository Name as: HackIndia Spar
 
 ## Step 2: Fill out this form
 
-Fill out this form to submit your project:  Link will be updated soon.
+Fill out this form to submit your project: [Submit Your Project Here](https://forms.office.com/r/XJTUi7mDK4).
 
 Also, please follow HackIndia on [LinkedIn](https://www.linkedin.com/company/hackindiaxyz), [X](https://x.com/HackIndiaXYZ) and [Github](https://github.com/HackIndiaXYZ).
 
