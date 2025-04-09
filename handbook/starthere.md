@@ -21,12 +21,6 @@ Referal Link: [invite.sharpplatform.com/HACKINDIA](https://invite.sharpplatform.
 
 📌 Course Links: [Full Stack Web3 Developer](https://students.c-sharpcorner.com/home/course/full-stack-web3-developer/6) | [AI Developer](https://students.c-sharpcorner.com/home/course/ai-developer/9)
 
-🎟️ Coupon Code: Available in the pinned message of the WhatsApp Group.
-
-**Step 6:** Sign up on [DevDapp Challenge](https://devdapp.com/referral/HackIndia) and complete as many challenges as you can to increase your chances to win. 
-
-::: info
-This Challenge is shared by [RAIRprotocol](https://rairprotocol.org/)  - one of the technology partner for HackIndia 2025.
-:::
+🎟️ Coupon Code: Available in the email
 
 Let’s build something incredible—Happy Hacking! 💡🔥

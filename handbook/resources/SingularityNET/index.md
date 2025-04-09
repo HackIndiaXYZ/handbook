@@ -24,4 +24,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZPVlJD-9X4?si=uyqDnqf_FEMToUKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### 4. MeTTa Working With Spaces + Control Flow
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_j5MtFRmYAc?si=ltHw0U-IWEyPSXU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 5. MeTTa Consloe Output + Debugging
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3zBF8s--9kQ?si=3Dda2ufV022omb3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
