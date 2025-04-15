@@ -4,33 +4,33 @@ outline: deep
 
 # Problem Statement 1
 
-## Project: Smart Presentation Generator
-
-### Overview
-
-Creating visually appealing and well-structured presentations is a time-consuming task. Many individuals and teams struggle with designing slides, selecting appropriate layouts, and adding relevant visual elements. This results in ineffective presentations that fail to engage the audience.
-
-### Challenge
-
-Build an AI-powered Smart Presentation Generator that can:
-- Generate high-quality slide decks from a brief text input or document.
-- Auto-suggest themes, layouts, and content structures.
-- Enhance slides with relevant images, icons, and transitions based on the context.
-- Ensure coherence, readability, and design consistency across all slides.
-
-### Key Features
-- Text to Slides: Convert a paragraph or bullet points into structured slides.
-- AI-based Design Suggestions: Recommend fonts, colors, and layouts based on the topic.
-- Content Enhancement: Automatically insert relevant visuals, charts, and icons.
-- Customization Options: Allow users to tweak slides as per their needs.
-- Export & Share: Support multiple formats like PPTX, PDF, and online sharing.
-
-### Impact
-This tool can help students, educators, professionals, and startups save time while creating high-quality presentations. It will increase productivity, ensure better communication, and enhance the overall presentation experience.
-
-### Build the Future of Smart Presentations! 🚀
-Think you have what it takes to revolutionize slide creation? Innovate, design, and build the ultimate AI-powered Smart Presentation Generator! 🎯
-
 ::: info
-This problem statement is shared by [MCN Solutions](https://www.mcnsolutions.net/)  - one of the technology partner for HackIndia 2025.
+This problem statement is shared by [Sharp Economy](https://sharpeconomy.org/)  - one of the technology partner for HackIndia 2025.
+
+🏆 Work on this problem statement if you want to compete in the **$25,000 Prize Pool**. 
 :::
+
+## Project: RAGify India: Legal Assistant for Indian Laws
+
+**Difficulty:** Intermediate – Advanced
+
+### Problem
+Build a chatbot using Retrieval-Augmented Generation (RAG) to answer queries about IPC, RTI, labor laws, etc.
+
+**Bonus:** Multi-lingual support and citations.
+
+#### 🛠️ Starter Repos
+
+- [langchain](https://github.com/langchain-ai/langchain)
+- [Haystack](https://github.com/deepset-ai/haystack)
+
+#### 📦 Models
+
+- Mistral-7B + RAG
+- BERT for retrieval, OpenLLM for generation
+
+#### 🔎 Data Sources
+
+- India Code
+- Legal data CSVs
+

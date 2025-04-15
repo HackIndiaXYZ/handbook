@@ -46,6 +46,7 @@ export default defineConfig({
           {
             text: "SingularityNET",
             base: "/problem-statement/SingularityNET/",
+            collapsed: true,
             items: [
               { text: "Problem Statement 1", link: "problemstatement1" },
               { text: "Problem Statement 2", link: "problemstatement2" },
@@ -58,21 +59,32 @@ export default defineConfig({
           {
             text: "AI ",
             base: "/problem-statement/AI/",
+            collapsed: true,
             items: [
               { text: "Problem Statement 1", link: "problemstatement1" },
               { text: "Problem Statement 2", link: "problemstatement2" },
               { text: "Problem Statement 3", link: "problemstatement3" },
               { text: "Problem Statement 4", link: "problemstatement4" },              
+              { text: "Problem Statement 5", link: "problemstatement5" },              
+              { text: "Problem Statement 6", link: "problemstatement6" },              
+              { text: "Problem Statement 7", link: "problemstatement7" },              
             ],
           },
           {
             text: "Web3 ",
             base: "/problem-statement/Web3/",
+            collapsed: true,
             items: [
               { text: "Problem Statement 1", link: "problemstatement1" },
               { text: "Problem Statement 2", link: "problemstatement2" },
+              { text: "Problem Statement 3", link: "problemstatement3" },
+              { text: "Problem Statement 4", link: "problemstatement4" },
             ],
           },
+          {
+            text: 'Open Track',
+            link: '/problem-statement/OpenTrack',
+          }
         ],
       },
       {

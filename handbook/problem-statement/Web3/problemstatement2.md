@@ -4,32 +4,35 @@ outline: deep
 
 # Problem Statement 2
 
-## Project: NFT Marketplace with Creator-Owned Smart Contracts
-
-###  Overview
-Traditional NFT marketplaces often require creators to mint NFTs using platform-controlled smart contracts, limiting their ownership, control, and revenue potential. Creators face high platform fees, restrictions on royalties, and lack of transparency in secondary sales. This reduces the incentive for artists, musicians, and content creators to fully adopt NFTs.
-
-### Challenge
-Build an NFT Marketplace with Creator-Owned Smart Contracts that can:
-- Allow creators to deploy and manage their own smart contracts for full ownership.
-- Enable custom royalty structures to ensure fair earnings on secondary sales.
-- Offer decentralized and transparent transactions using blockchain technology.
-- Provide multi-chain compatibility to support different blockchain ecosystems.
-- Enhance security, scalability, and low gas fees for a seamless user experience.
-
-### Key Features
-- Creator-Owned Smart Contracts: No reliance on platform-controlled contracts.
-- Custom Royalties: Ensure fair earnings for creators on every resale.
-- Decentralized Trading: Transparent and verifiable transactions on-chain.
-- Multi-Blockchain Support: Deploy NFTs on Ethereum, Solana, Polygon, etc.
-- Gas Optimization: Reduce minting and transaction costs for accessibility.
-
-### Impact
-This marketplace will empower creators with full control over their NFTs, ensuring fair earnings, transparency, and decentralization. By eliminating intermediaries and giving creators autonomy, it will redefine digital ownership and NFT commerce.
-
-### Revolutionize the NFT Space! 🚀
-Can you build the future of NFT marketplaces? Innovate, develop, and give creators the power they deserve! 🎨🔗🔥
-
 ::: info
-This problem statement is shared by [Sharp Platform](https://invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
+This problem statement is shared by [Sharp Economy](https://sharpeconomy.org/)  - one of the technology partner for HackIndia 2025.
+
+🏆 Work on this problem statement if you want to compete in the **$25,000 Prize Pool**. 
 :::
+
+## Project: Proof-of-Peer – Learning Credentials via Soulbound NFTs
+
+**Category:** Identity / Education / Reputation
+
+**Difficulty:** Beginner – Intermediate
+
+### 🧠 Core Idea:
+Design a platform that issues soulbound NFTs (non-transferable tokens) to learners for completing online courses, tutorials, workshops, or contributing to open source. Allow peer endorsements and skill ratings directly on-chain. Could also link to GitHub repos or Gitcoin badges.
+
+### 🛠️ Tech Stack Ideas:
+- Smart Contracts: ERC-721 + ERC-5484 (soulbound spec)
+- Frontend: React + Ethers.js or Wagmi
+- Storage: Arweave or IPFS for badge metadata
+- Infra: Linea, Zora, or Base for NFT minting at low cost
+
+### 🗃️ Data Sources:
+- Simulated course completion data (from MOOCs, workshops)
+- Open certification providers (Coursera, edX) APIs (if used off-chain)
+- GitHub profile stats, pull request logs
+
+### 🧩 Bonus Ideas:
+- Skill trees that evolve: NFTs level up based on streaks
+- Indian twist: “Certified ChaiCoder,” “React Rani,” “SQL Shera” etc.
+- DAO voting for peer-review based endorsements
+
+
