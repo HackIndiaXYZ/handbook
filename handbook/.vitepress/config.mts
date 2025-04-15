@@ -83,7 +83,7 @@ export default defineConfig({
           },
           {
             text: 'Open Track',
-            link: '/problem-statement/OpenTrack',
+            link: '/problem-statement/opentrack',
           }
         ],
       },
