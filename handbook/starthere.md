@@ -17,10 +17,10 @@ Referal Link: [invite.sharpplatform.com/HACKINDIA](https://invite.sharpplatform.
 
 **Step 4:** Pick a Problem Statement – Work on one of the provided challenges or come up with your own innovative solution.
 
-**Step 5:** Complete the Web3 or AI Course – Get up to speed with the fundamentals before diving into development.
+<!--- **Step 5:** Complete the Web3 or AI Course – Get up to speed with the fundamentals before diving into development.
 
 📌 Course Links: [Full Stack Web3 Developer](https://students.c-sharpcorner.com/home/course/full-stack-web3-developer/6) | [AI Developer](https://students.c-sharpcorner.com/home/course/ai-developer/9)
 
-🎟️ Coupon Code: Available in the email
+🎟️ Coupon Code: Available in the email--->
 
 Let’s build something incredible—Happy Hacking! 💡🔥
