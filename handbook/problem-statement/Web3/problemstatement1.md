@@ -4,33 +4,35 @@ outline: deep
 
 # Problem Statement 1
 
-## Project: Blockchain-Based Certificate Generation & Validation
-
-###  Overview
-Fake certificates, credential fraud, and manual verification processes are major challenges in education, recruitment, and professional certifications. Traditional certificate issuance methods are prone to forgery, loss, and inefficiencies, making it difficult for institutions and employers to verify credentials securely and quickly.
-
-### Challenge
-Build a Blockchain-Based Certificate Generation & Validation system that can:
-- Issue tamper-proof, verifiable certificates on a blockchain network.
-- Allow instant verification by employers, universities, and institutions.
-- Provide a decentralized and secure way to store and access credentials.
-- Enable real-time tracking of certificate authenticity and ownership.
-- Ensure privacy and control, allowing users to share credentials selectively.
-
-### Key Features
-- Immutable Certificates: Store credentials on a blockchain to prevent forgery.
-- Instant Verification: Enable quick validation via QR codes or blockchain lookups.
-- Decentralized & Secure: Reduce reliance on centralized authorities.
-- User-Controlled Access: Allow individuals to share their certificates securely.
-- Multi-Purpose Use Case: Applicable for universities, professional courses, training programs, and government-issued certifications.
-
-### Impact
-This solution will eliminate credential fraud, streamline verification processes, and empower individuals with ownership of their digital certificates. Employers and institutions can save time while ensuring the authenticity of credentials in a trustless, transparent system.
-
-
-### Build the Future of Digital Credentials! 🚀
-Are you ready to transform how certificates are issued and verified? Innovate, develop, and build the next-gen blockchain-based credentialing system! 🔗🎓
-
 ::: info
-This problem statement is shared by [Sharp Platform](https://invite.sharpplatform.com/HACKINDIA)  - one of the technology partner for HackIndia 2025.
+This problem statement is shared by [Sharp Economy](https://sharpeconomy.org/)  - one of the technology partner for HackIndia 2025.
+
+🏆 Work on this problem statement if you want to compete in the **$25,000 Prize Pool**. 
 :::
+
+## Project: DAA — Decentralized Attendance App
+
+**Category:** Identity / Education / Infra
+
+**Difficulty:** Intermediate – Advanced
+
+### 🧠 Core Idea:
+Build a blockchain-based attendance system that eliminates forgery, proxies, and tampering by logging every attendance event on-chain. Every student/employee has a unique wallet address or digital identity, and attendance entries are made through QR scans, NFC tags, or biometric triggers that sign and store data on-chain.
+
+
+### 🛠️ Tech Stack Ideas:
+- Smart Contracts: Solidity / Cairo (if using Starknet)
+- Identity Layer: ENS / World ID / Lens Protocol or phone#-based zkAuth
+- Frontend: React or Next.js with EVM wallet (Metamask, RainbowKit)
+- Infra: Polygon, Avalanche, Base (for fast + low-fee chains)
+
+### 🗃️ Data Sources:
+- Simulate or use anonymized attendance logs from college CRMs
+- Use dummy biometric device outputs (CSV/json of timestamps)
+
+### 🧩 Bonus Ideas:
+- NFT-based “Perfect Attendance” badges
+- Generate reports or infographics for teachers/admin
+- De-anonymized logs (on-chain hash + off-chain storage via IPFS/Filecoin)
+
+
