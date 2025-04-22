@@ -13,7 +13,7 @@ Referal Link: [invite.sharpplatform.com/HACKINDIA](https://invite.sharpplatform.
 
 *If you download it directly from the play store, you will neither receive the 200 bonus tokens nor the full 1000 Sharp Tokens for participating in HackIndia.*
 
-**Step 3:** Select Your Track – Choose between SingularityNET, AI, Web3 or Open Track based on your interest and skills.
+**Step 3:** Select Your Track – Choose among SingularityNET, AI, Web3 or Open Track based on your interest and skills.
 
 **Step 4:** Pick a Problem Statement – Work on one of the provided challenges or come up with your own innovative solution.
 
