@@ -68,6 +68,7 @@ export default defineConfig({
               { text: "Problem Statement 5", link: "problemstatement5" },              
               { text: "Problem Statement 6", link: "problemstatement6" },              
               { text: "Problem Statement 7", link: "problemstatement7" },              
+              { text: "Problem Statement 8", link: "problemstatement8" },              
             ],
           },
           {
