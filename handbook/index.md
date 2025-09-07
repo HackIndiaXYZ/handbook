@@ -11,8 +11,8 @@ hero:
     alt: HackIndia
   actions:
     - theme: brand
-      text: Start Here
-      link: /starthere
+      text: Finals Information  
+      link: /national-finals-2025
     - theme: alt
       text: Website
       link: https://hackindia.xyz/

@@ -114,13 +114,23 @@ export default defineConfig({
         ],
       },
       {
-        text: "Project Submission 🛑",
-        items: [{ text: "Overview", link: "/project-submission/index" }],
+        text: "National Finals",
+        items: [
+          { text: "Finals Information", link: "/national-finals-2025" },
+          { text: "Venue", link: "/national-finals-2025/venue" },
+          { text: "Agenda", link: "/national-finals-2025/agenda" },
+          { text: "Judging Criteria", link: "/national-finals-2025/judging-criteria" },
+          { text: "Team Guidlines & CoC", link: "/national-finals-2025/team-guidlines-coc" },
+        ],
       },
-      {
-        text: "Judging Criteria 👩‍🏫",
-        items: [{ text: "Overview", link: "/judging-criteria/index" }],
-      },
+      // {
+      //   text: "Project Submission 🛑",
+      //   items: [{ text: "Overview", link: "/project-submission/index" }],
+      // },
+      // {
+      //   text: "Judging Criteria 👩‍🏫",
+      //   items: [{ text: "Overview", link: "/judging-criteria/index" }],
+      // },
       {
         text: "Important Links 🔗",
         items: [{ text: "Overview", link: "/important-links/index" }],
