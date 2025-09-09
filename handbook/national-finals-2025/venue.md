@@ -10,6 +10,10 @@ outline: deep
 **The Leela Ambience Convention Hotel, Delhi**  
 1, CBD, Maharaja Surajmal Marg, near Yamuna Sports Complex,  
 Vishwas Nagar Extension, Vishwas Nagar, Shahdara, Delhi – 110032  
+
+**Entry Gate No. :** 6
+
+**Hall Name :** Emerald
   
 
 [View on Google Maps](https://www.google.com/travel/search?ts=CAEaSQopEicyJTB4MzkwY2ZiNmVlYzgzYmZhYjoweDllYTRiMWY0YzNiMzcwZjcSHBIUCgcI6Q8QCRgbEgcI6Q8QCRgcGAEyBAgAEAAqBwoFOgNJTlI&qs=CAEyFENnc0k5LUhObmN5LXJOS2VBUkFCOAJCCQn3cLPD9LGknkIJCfdws8P0saSe&utm_campaign=sharing&utm_medium=link_btn&utm_source=htls)  
