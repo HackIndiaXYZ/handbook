@@ -20,10 +20,13 @@ Check out the full day’s schedule with timings and sessions:
 Understand how projects will be evaluated and what judges are looking for:  
 [Judging Criteria](/national-finals-2025/judging-criteria)  
 
+## Team Presentation Sequence  
+View the order in which teams will present across **Web3, AI, and SingularityNET** tracks:  
+[Team Presentation Sequence](/national-finals-2025/team-sequence)  
+
 ## Team Guidelines & Code of Conduct  
 Please read carefully before the finals – includes project prep, presentation tips, and respectful participation rules:  
 [Team Guidelines & Code of Conduct](/national-finals-2025/team-guidlines-coc)  
-
 
 
 ###  Quick Links (External)  

@@ -120,6 +120,7 @@ export default defineConfig({
           { text: "Venue", link: "/national-finals-2025/venue" },
           { text: "Agenda", link: "/national-finals-2025/agenda" },
           { text: "Judging Criteria", link: "/national-finals-2025/judging-criteria" },
+          { text: "Team Sequence  ", link: "/national-finals-2025/team-sequence" },
           { text: "Team Guidlines & CoC", link: "/national-finals-2025/team-guidlines-coc" },
         ],
       },
